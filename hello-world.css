@@ -1,0 +1,23 @@
+h1 { color: rgb(4, 49, 21); }
+h1 {font-style: oblique;}
+h1 {font-family: 'Courier New', Courier, monospace}
+h2 {font-family: 'Courier New', Courier, monospace;}
+h2 {color: rgb(10, 57, 27);}
+p1 {font-family: 'Courier New', Courier, monospace;}
+h3 { color:rgb(5, 56, 16); }
+h3 {font-style: oblique;}
+h3 {font-family: 'Courier New', Courier, monospace}
+p3 {font-family: 'Courier New', Courier, monospace; }
+p4 {font-family: 'Courier New', Courier, monospace;}
+
+p1{color: aliceblue;}
+p3{color: aliceblue;}
+p4{color: aliceblue;}
+
+h3 {
+    background-color:rgb(174, 201, 202) ;
+}
+
+img {
+    border: 5px solid #847676
+}
